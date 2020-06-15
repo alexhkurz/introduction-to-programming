@@ -18,7 +18,7 @@ plt.plot(x,y, 'r')
 
 # square root
 y = np.linspace(0,10,100)
-x = x**0.5
+x = y**0.5
 
 # graph square root in blue
 plt.plot(x,y,'b')
