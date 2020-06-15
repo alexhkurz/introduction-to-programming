@@ -12,7 +12,7 @@ ax.spines['top'].set_color('none')
 # squaring in red
 x = np.linspace(0,2,100)
 y = x**2
-plt.plot(x,y, 'r')
+plt.plot(x,y,'r')
 
 # square root in blue
 x = np.linspace(0,4,100)
