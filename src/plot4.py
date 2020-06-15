@@ -9,14 +9,12 @@ ax.spines['bottom'].set_position('zero')
 ax.spines['right'].set_color('none')
 ax.spines['top'].set_color('none')
 
-# squaring
+# squaring in red
 x = np.linspace(0,2,100)
 y = x**2
-
-# graph the parabola in red
 plt.plot(x,y, 'r')
 
-# graph square root in blue
+# square root in blue
 plt.plot(y,x,'b')
 
 # show plot

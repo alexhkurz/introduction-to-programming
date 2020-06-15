@@ -11,13 +11,13 @@ ax.spines['top'].set_color('none')
 
 # squaring in red
 x = np.linspace(0,2,100)
-y1 = x**2
-plt.plot(x,y1, 'r')
+y = x**2
+plt.plot(x,y, 'r')
 
 # square root in bliue
 x = np.linspace(0,4,100)
-y2 = x**0.5
-plt.plot(x,y2,'b')
+y = x**0.5
+plt.plot(x,y,'b')
 
 # show plot
 plt.xticks(range(1, 5))
