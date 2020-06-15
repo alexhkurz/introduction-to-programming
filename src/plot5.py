@@ -14,7 +14,7 @@ x = np.linspace(0,2,100)
 y = x**2
 plt.plot(x,y, 'r')
 
-# square root in bliue
+# square root in blue
 x = np.linspace(0,4,100)
 y = x**0.5
 plt.plot(x,y,'b')
