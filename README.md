@@ -9,7 +9,7 @@ Python:
 - [Functions](https://hackmd.io/@alexhkurz/SJ1DcL43L)
 - [Plotting Functions](https://hackmd.io/@alexhkurz/SJN2udq3I)
 - [Variables](https://hackmd.io/@alexhkurz/HyJqEPN2L)
-- For Loops
+- [For Loops](https://hackmd.io/@alexhkurz/H1o4Mcr6L)
 - Lists
 - Objects
 - Recursion
