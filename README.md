@@ -10,8 +10,8 @@ Python:
 - [Plotting Functions](https://hackmd.io/@alexhkurz/SJN2udq3I)
 - [Variables](https://hackmd.io/@alexhkurz/HyJqEPN2L)
 - [Iteration: For Loops](https://hackmd.io/@alexhkurz/H1o4Mcr6L)
-- Recursion
-- Space and Time Complexity
+- [Recursion](https://hackmd.io/@alexhkurz/Hy48XsvpI)
+- [Time Complexity](https://hackmd.io/@alexhkurz/SkIGSnPTU)
 - Lists
 - Objects
 - Recursion 2
