@@ -10,9 +10,13 @@ Python:
 - [Plotting Functions](https://hackmd.io/@alexhkurz/SJN2udq3I)
 - [Variables](https://hackmd.io/@alexhkurz/HyJqEPN2L)
 - [For Loops](https://hackmd.io/@alexhkurz/H1o4Mcr6L)
+- Recursion
+- Space and Time Complexity
 - Lists
 - Objects
-- Recursion
-- ... 
+- Recursion 2
+- Invariants
+- Termination
+- The Halting Problem
 
 
