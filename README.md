@@ -11,6 +11,8 @@ Python:
 - [Variables](https://hackmd.io/@alexhkurz/HyJqEPN2L)
 - [Iteration: For Loops](https://hackmd.io/@alexhkurz/H1o4Mcr6L)
 - [Recursion](https://hackmd.io/@alexhkurz/Hy48XsvpI)
+- [Tracing the Execution of Recursive Programs](https://hackmd.io/@alexhkurz/rJjfXqS08)
+- [Global Variables](https://hackmd.io/@alexhkurz/Hkc7HoSC8)
 - [Time Complexity](https://hackmd.io/@alexhkurz/SkIGSnPTU)
 - Lists
 - Objects
