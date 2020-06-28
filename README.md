@@ -2,7 +2,7 @@
 
 Blog of a home-education project with Johanna (18) and Jonathan (15).
 
-Python: 
+Mostly Python and a little Haskell: 
 - [Integers](https://hackmd.io/@alexhkurz/SkABF8ajI)
 - [Floats, Decimals, Fractions](https://hackmd.io/@alexhkurz/HJ9zbYZnL)
 - [Booleans and Conditionals](https://hackmd.io/@alexhkurz/Bk1byMf2L)
@@ -11,9 +11,15 @@ Python:
 - [Variables](https://hackmd.io/@alexhkurz/HyJqEPN2L)
 - [Iteration: For Loops](https://hackmd.io/@alexhkurz/H1o4Mcr6L)
 - [Recursion](https://hackmd.io/@alexhkurz/Hy48XsvpI)
-- [Tracing the Execution of Recursive Programs](https://hackmd.io/@alexhkurz/rJjfXqS08)
-- [Global Variables](https://hackmd.io/@alexhkurz/Hkc7HoSC8)
+- [The `return` statement](https://hackmd.io/@alexhkurz/HJHS4NUAI)
+- [Why is Recursion Difficult?](https://hackmd.io/@alexhkurz/rJjfXqS08)
+- [Control Flow and Flow Charts]() tba
+- [Scratch]() tba
+- [von Neumann Architecture]() tba
+- [Why does Python not have a `goto` Statement?]() tba
+- [Global Variables]() tba
 - [Time Complexity](https://hackmd.io/@alexhkurz/SkIGSnPTU)
+- [Efficient Fibonacci in Haskell]() tba
 - Lists
 - Objects
 - Recursion 2
