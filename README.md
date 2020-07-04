@@ -17,7 +17,8 @@ Mostly Python and a little Haskell:
 - [Recursion](https://hackmd.io/@alexhkurz/Hy48XsvpI)
 - [The `return` statement](https://hackmd.io/@alexhkurz/HJHS4NUAI)
 - [Why is Recursion Difficult?](https://hackmd.io/@alexhkurz/rJjfXqS08)
-- [Flowcharts](https://hackmd.io/@alexhkurz/ry2Ax1FC8) tba
+- [The Towers of Hanoi](https://hackmd.io/@alexhkurz/ryiCiDs08)
+- [Flowcharts](https://hackmd.io/@alexhkurz/ry2Ax1FC8) 
 - [Scratch](https://hackmd.io/@alexhkurz/H1CyS5v08) tba
 - [von Neumann Architecture]() tba
 - [Why does Python not have a `goto` Statement?]() tba
