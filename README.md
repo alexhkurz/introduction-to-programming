@@ -6,7 +6,7 @@ While I try to put a lot of detail in the write-ups, they are not intended for s
 
 The sessions are based on using programming for mathematics. If you would like to see introductions based on video games try [Scratch](https://scratch.mit.edu/projects/408463938/editor) or [Khanacademy](https://www.khanacademy.org/computing/computer-programming).
 
-Mostly Python and a little Haskell: 
+Mostly Python and a little Haskell, Scratch, C, Assembly: 
 - [Integers](https://hackmd.io/@alexhkurz/SkABF8ajI)
 - [Floats, Decimals, Fractions](https://hackmd.io/@alexhkurz/HJ9zbYZnL)
 - [Booleans and Conditionals](https://hackmd.io/@alexhkurz/Bk1byMf2L)
@@ -15,12 +15,13 @@ Mostly Python and a little Haskell:
 - [Variables](https://hackmd.io/@alexhkurz/HyJqEPN2L)
 - [Iteration: `for` Loops](https://hackmd.io/@alexhkurz/H1o4Mcr6L)
 - [Recursion](https://hackmd.io/@alexhkurz/Hy48XsvpI)
+- [The Towers of Hanoi](https://hackmd.io/@alexhkurz/ryiCiDs08)
 - [The `return` statement](https://hackmd.io/@alexhkurz/HJHS4NUAI)
 - [Why is Recursion Difficult?](https://hackmd.io/@alexhkurz/rJjfXqS08)
-- [The Towers of Hanoi](https://hackmd.io/@alexhkurz/ryiCiDs08)
 - [Flowcharts](https://hackmd.io/@alexhkurz/ry2Ax1FC8) 
 - [Scratch](https://hackmd.io/@alexhkurz/H1CyS5v08) tba
-- [von Neumann Architecture]() tba
+- [From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)  
+- [Assembly]() tba  
 - [Why does Python not have a `goto` Statement?]() tba
 - [Global Variables]() tba
 - [Time Complexity](https://hackmd.io/@alexhkurz/SkIGSnPTU)
