@@ -23,8 +23,8 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - [From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)  (can be skipped)
 - [Assembly](https://hackmd.io/@alexhkurz/HyccPGbJv) 
 - ...
-- [Global Variables]() tba
-- [Time Complexity](https://hackmd.io/@alexhkurz/SkIGSnPTU)
+- [Global Variables](https://hackmd.io/@alexhkurz/Hkc7HoSC8) tbc
+- [Time Complexity](https://hackmd.io/@alexhkurz/SkIGSnPTU) tbc
 - [Efficient Fibonacci in Haskell]() tba
 - Lists
 - Objects

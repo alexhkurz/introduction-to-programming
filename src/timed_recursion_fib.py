@@ -1,4 +1,4 @@
-n = 30
+n = 6
 count = 0
 
 def fib(n):
