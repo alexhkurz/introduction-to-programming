@@ -19,10 +19,10 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - [The `return` statement](https://hackmd.io/@alexhkurz/HJHS4NUAI)
 - [Why is Recursion Difficult?](https://hackmd.io/@alexhkurz/rJjfXqS08)
 - [Flowcharts](https://hackmd.io/@alexhkurz/ry2Ax1FC8) 
-- [Scratch](https://hackmd.io/@alexhkurz/H1CyS5v08) tba
-- [From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)  
-- [Assembly]() tba  
-- [Why does Python not have a `goto` Statement?]() tba
+- [Scratch](https://hackmd.io/@alexhkurz/H1CyS5v08) 
+- [From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)  (can be skipped)
+- [Assembly](https://hackmd.io/@alexhkurz/HyccPGbJv) 
+- ...
 - [Global Variables]() tba
 - [Time Complexity](https://hackmd.io/@alexhkurz/SkIGSnPTU)
 - [Efficient Fibonacci in Haskell]() tba
