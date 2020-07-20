@@ -18,7 +18,7 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - [Recursion](https://hackmd.io/@alexhkurz/Hy48XsvpI)
 - [The Towers of Hanoi](https://hackmd.io/@alexhkurz/ryiCiDs08)
 - [The `return` statement](https://hackmd.io/@alexhkurz/HJHS4NUAI)
-- [What is difficult about recursion?](https://hackmd.io/@alexhkurz/rJjfXqS08)
+- [Call stacks or what is difficult about recursion](https://hackmd.io/@alexhkurz/rJjfXqS08)
 - [Flowcharts or what is easy about iteration](https://hackmd.io/@alexhkurz/ry2Ax1FC8) 
 - [Excursion: Scratch](https://hackmd.io/@alexhkurz/H1CyS5v08) 
 - [Excursion: From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)  (can be skipped)
