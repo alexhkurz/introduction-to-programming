@@ -21,10 +21,10 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - [Call stacks or what is difficult about recursion](https://hackmd.io/@alexhkurz/rJjfXqS08)
 - [Flowcharts or what is easy about iteration](https://hackmd.io/@alexhkurz/ry2Ax1FC8) 
 - [Excursion: Scratch](https://hackmd.io/@alexhkurz/H1CyS5v08) 
-- [Excursion: From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)  (can be skipped)
+- [Excursion: From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)
 - [Excursion: Assembly](https://hackmd.io/@alexhkurz/HyccPGbJv) 
-- ...
-- [Global Variables](https://hackmd.io/@alexhkurz/Hkc7HoSC8) tbc
+- [Global Variables](https://hackmd.io/@alexhkurz/Hkc7HoSC8) 
+...
 - [Time Complexity](https://hackmd.io/@alexhkurz/SkIGSnPTU) tbc
 - [Efficient Fibonacci in Haskell]() tba
 - Lists
