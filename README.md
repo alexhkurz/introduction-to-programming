@@ -26,7 +26,8 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - [Global Variables](https://hackmd.io/@alexhkurz/Hkc7HoSC8) 
 - [Time Complexity: Introduction](https://hackmd.io/@alexhkurz/SkIGSnPTU)
 - [Time Complexity: The example of sorting](https://hackmd.io/@alexhkurz/r1erdGSlP)
-- [Lists](https://hackmd.io/@alexhkurz/Sy7AHDNn8)
+- [Lists: Iterating over Lists](https://hackmd.io/@alexhkurz/Sy7AHDNn8)
+- [Lists: Constructing Lists](https://hackmd.io/@alexhkurz/By6YoM8Gw)
 - [Objects](https://hackmd.io/@alexhkurz/ByiUweLfD)
 - Recursion 2
 - Invariants

@@ -8,21 +8,22 @@ def plus_one_number(n):
     n = n+1
     return n
 
-# compute += for a number
+# n += 1 has the same meaning as n = n + 1
 def plus_one_number_2(n):
     n += 1
     return n
-
 
 # compute + of two lists
 def plus_one_list(l):
     l = l+[1]
     return l
 
+# l += [1] for lists is different from l = l + [1]
 def plus_one_list_2(l):
     l += [1]
     return l
 
+# append is similar to += but faster
 def append_one(l):
     l.append(1)
 
