@@ -16,7 +16,7 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - [Variables](https://hackmd.io/@alexhkurz/HyJqEPN2L)
 - [Iteration: `for` Loops](https://hackmd.io/@alexhkurz/H1o4Mcr6L)
 - [Recursion](https://hackmd.io/@alexhkurz/Hy48XsvpI)
-- [The Towers of Hanoi](https://hackmd.io/@alexhkurz/ryiCiDs08)
+- [Example of the Power of Recursion: Towers of Hanoi](https://hackmd.io/@alexhkurz/ryiCiDs08)
 - [The `return` statement](https://hackmd.io/@alexhkurz/HJHS4NUAI)
 - [Call stacks or what is difficult about recursion](https://hackmd.io/@alexhkurz/rJjfXqS08)
 - [Flowcharts or what is easy about iteration](https://hackmd.io/@alexhkurz/ry2Ax1FC8) 

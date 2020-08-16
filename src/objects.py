@@ -1,9 +1,3 @@
-# https://docs.python.org/3/tutorial/introduction.html#lists
-# https://docs.python.org/3/tutorial/datastructures.html
-# https://docs.python.org/3/library/functions.html#id
-# https://stackoverflow.com/questions/725782/in-python-what-is-the-difference-between-append-and/725882
-# https://stackoverflow.com/questions/3917574/how-is-pythons-list-implemented
-
 from termcolor import colored
 
 my_number = 0
