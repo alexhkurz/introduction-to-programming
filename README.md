@@ -28,7 +28,10 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - [Time Complexity: The example of sorting](https://hackmd.io/@alexhkurz/r1erdGSlP)
 - [Lists: Iterating over Lists](https://hackmd.io/@alexhkurz/Sy7AHDNn8)
 - [Lists: Constructing Lists](https://hackmd.io/@alexhkurz/By6YoM8Gw)
-- [Objects](https://hackmd.io/@alexhkurz/ByiUweLfD)
+- [Objects: Examples](https://hackmd.io/@alexhkurz/ByiUweLfD)
+- [Objects: Explained](https://hackmd.io/@alexhkurz/rkXh-CUGP)
+- [Passing Objects as Parameters](https://hackmd.io/@alexhkurz/HJo0RmvGv)
+- Sorting
 - Recursion 2
 - Invariants
 - Termination
