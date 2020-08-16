@@ -1,0 +1,11 @@
+#!/bin/bash
+
+counter=5
+
+until [ $counter -eq 1 ] 
+do  
+    echo $counter
+    echo "time python length.py"
+    time python length.py
+    ((counter--))
+done

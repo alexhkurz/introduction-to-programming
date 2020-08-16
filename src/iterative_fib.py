@@ -1,4 +1,4 @@
-n = 20
+n = 100000
 
 def fib(n):
     fib_one = 0

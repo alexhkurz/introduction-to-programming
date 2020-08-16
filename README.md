@@ -24,11 +24,10 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - [Excursion: From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)
 - [Excursion: Assembly](https://hackmd.io/@alexhkurz/HyccPGbJv) 
 - [Global Variables](https://hackmd.io/@alexhkurz/Hkc7HoSC8) 
-...
-- [Time Complexity](https://hackmd.io/@alexhkurz/SkIGSnPTU) tbc
-- [Efficient Fibonacci in Haskell]() tba
-- Lists
-- Objects
+- [Time Complexity: Introduction](https://hackmd.io/@alexhkurz/SkIGSnPTU)
+- [Time Complexity: The example of sorting](https://hackmd.io/@alexhkurz/r1erdGSlP)
+- [Lists](https://hackmd.io/@alexhkurz/Sy7AHDNn8)
+- [Objects](https://hackmd.io/@alexhkurz/ByiUweLfD)
 - Recursion 2
 - Invariants
 - Termination
