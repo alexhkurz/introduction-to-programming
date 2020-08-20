@@ -29,7 +29,8 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - [Lists: Iterating over Lists](https://hackmd.io/@alexhkurz/Sy7AHDNn8)
 - [Lists: Constructing Lists](https://hackmd.io/@alexhkurz/By6YoM8Gw)
 - [Objects: Examples](https://hackmd.io/@alexhkurz/ByiUweLfD)
-- [Objects: Explained](https://hackmd.io/@alexhkurz/rkXh-CUGP)
+- [Objects: A Memory Model](https://hackmd.io/@alexhkurz/rkXh-CUGP)
+- [Objects and Methods](https://hackmd.io/@alexhkurz/rk738IiGw)
 - [Passing Objects as Parameters](https://hackmd.io/@alexhkurz/HJo0RmvGv)
 - Sorting
 - Recursion 2
