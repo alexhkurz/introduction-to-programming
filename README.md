@@ -21,7 +21,6 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - Objects: [Examples](https://hackmd.io/@alexhkurz/ByiUweLfD) ... [A Memory Model](https://hackmd.io/@alexhkurz/rkXh-CUGP) ... [Methods](https://hackmd.io/@alexhkurz/rk738IiGw)
 - [Passing Objects as Parameters](https://hackmd.io/@alexhkurz/HJo0RmvGv)
 - Excursion: [Lists in Haskell](https://hackmd.io/@alexhkurz/BJmF-h0zP)
-
 - Sorting
 - Recursion 2
 - Invariants
