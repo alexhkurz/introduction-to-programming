@@ -12,15 +12,16 @@ Mostly Python and a little Haskell, Scratch, C, Assembly:
 - Functions: [Functions](https://hackmd.io/@alexhkurz/SJ1DcL43L) ... [Plotting Functions](https://hackmd.io/@alexhkurz/SJN2udq3I)
 - [Variables](https://hackmd.io/@alexhkurz/HyJqEPN2L)
 - Iteration and Recursion: [`for`-Loops](https://hackmd.io/@alexhkurz/H1o4Mcr6L) ... [Recursion](https://hackmd.io/@alexhkurz/Hy48XsvpI) ... [The Power of Recursion: Towers of Hanoi](https://hackmd.io/@alexhkurz/ryiCiDs08) ... [The `return` statement](https://hackmd.io/@alexhkurz/HJHS4NUAI) ... [Call stacks or what is difficult about recursion](https://hackmd.io/@alexhkurz/rJjfXqS08) ... [Flowcharts or what is easy about iteration](https://hackmd.io/@alexhkurz/ry2Ax1FC8) 
-- [Excursion: Scratch](https://hackmd.io/@alexhkurz/H1CyS5v08) 
-- [Excursion: From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)
-- [Excursion: Assembly](https://hackmd.io/@alexhkurz/HyccPGbJv) 
+- Excursion: [Scratch](https://hackmd.io/@alexhkurz/H1CyS5v08) 
+- Excursion: [From Computability to Computer Architecture](https://hackmd.io/@alexhkurz/Sks4Jxekw)
+- Excursion: [Assembly](https://hackmd.io/@alexhkurz/HyccPGbJv) 
 - [Global Variables](https://hackmd.io/@alexhkurz/Hkc7HoSC8) 
 - Time Complexity: [Introduction](https://hackmd.io/@alexhkurz/SkIGSnPTU) ... [The example of sorting](https://hackmd.io/@alexhkurz/r1erdGSlP)
 - Lists: [Iterating over Lists](https://hackmd.io/@alexhkurz/Sy7AHDNn8) ... [Constructing Lists](https://hackmd.io/@alexhkurz/By6YoM8Gw)
-- [Haskell: Lists]()
 - Objects: [Examples](https://hackmd.io/@alexhkurz/ByiUweLfD) ... [A Memory Model](https://hackmd.io/@alexhkurz/rkXh-CUGP) ... [Methods](https://hackmd.io/@alexhkurz/rk738IiGw)
 - [Passing Objects as Parameters](https://hackmd.io/@alexhkurz/HJo0RmvGv)
+- Excursion: [Lists in Haskell](https://hackmd.io/@alexhkurz/BJmF-h0zP)
+
 - Sorting
 - Recursion 2
 - Invariants
